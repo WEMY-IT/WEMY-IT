@@ -1,6 +1,6 @@
-### ✌️ Hi! I'm a 16 year old homeschooler and coder!
+### ✌️ Hi! I'm a 21 year old coder! And This is my Profile
 
-When I'm not doing school or working on a project, I enjoy flying drones and making videos on my YouTube channel, [**_`A Wanderer's Archives`_**](https://youtube.com/@wanderer.archives).
+
 
 #### 👷 The latest repos I've pushed to
 {{range recentContributions 8}}
@@ -8,16 +8,10 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 {{- end}}
 
 #### ⌨️ My latest projects
-{{range recentCreatedRepos "taciturnaxolotl" 4}}
+{{range recentCreatedRepos "WEMY-IT" 4}}
 - [`{{.Name}}`]({{.URL}}) - _"{{.Description}}"
 {{- end}}
 
-#### 🗒️ The latest posts from my [blog](https://dunkirk.sh)
-{{range rss "https://dunkirk.sh/rss.xml" 3}}
-- [`{{.Title}}`]({{.URL}}) **({{humanize .PublishedAt}})**
-{{end}}
-
----
 
 #### 📊 WakaTime Stats
 
@@ -30,5 +24,4 @@ _Stats updating..._
 #### 📮 Want to contact me?
 
 ```text
-Email: me@dunkirk.sh
-Slack: @krn (hackclub.com/slack)
+Email: kddndlol@gmial.com
