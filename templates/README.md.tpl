@@ -12,10 +12,6 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 - [`{{.Name}}`]({{.URL}}) - _"{{.Description}}"_
 {{- end}}
 
-#### 🗒️ the latest posts from my [blog](https://dunkirk.sh)
-{{range rss "https://dunkirk.sh/rss.xml" 3}}
-- [`{{.Title}}`]({{.URL}}) **({{humanize .PublishedAt}})**
-{{end}}
 
 
 #### 📡 my [_`hackatime`_](https://waka.hackclub.com) stats from the last week
