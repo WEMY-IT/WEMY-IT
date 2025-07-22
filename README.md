@@ -27,7 +27,15 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 #### 📊 WakaTime Stats
 
 <!--START_SECTION:waka-->
-_Stats updating..._
+
+```txt
+From: 14 July 2025 - To: 21 July 2025
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ---
