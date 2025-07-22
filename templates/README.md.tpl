@@ -17,10 +17,18 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 - [`{{.Title}}`]({{.URL}}) **({{humanize .PublishedAt}})**
 {{end}}
 
-#### 📡 My [_`hackatime`_](https://waka.hackclub.com) stats from the last week
+---
+
+#### 📊 WakaTime Stats
+
+<!--START_SECTION:waka-->
+_Stats updating..._
+<!--END_SECTION:waka-->
+
+---
+
+#### 📮 Want to contact me?
 
 ```text
-{{ wakatimeCategoryBar "💾 Languages:" wakatimeData.Languages 5 }}
-{{ wakatimeCategoryBar "💼 Projects:" wakatimeData.Projects 5 }}
-
-Total: {{ wakatimeData.HumanReadableTotal }}
+Email: me@dunkirk.sh
+Slack: @krn (hackclub.com/slack)
