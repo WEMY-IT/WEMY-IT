@@ -5,14 +5,18 @@ on:
   schedule:
     - cron: "0 */1 * * *"  # Every hour
 
+permissions:
+  contents: write  # ✅ Required for committing the README update
+
 jobs:
   markscribe:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: 📦 Checkout repository
+        uses: actions/checkout@v3
 
-      - name: Generate README using markscribe
+      - name: 🖋️ Generate README using Markscribe
         uses: WEMY-IT/WEMY-IT@main
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
@@ -20,17 +24,15 @@ jobs:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
 
-      - name: Insert WakaTime stats
+      - name: 📊 Insert WakaTime stats
         uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           SHOW_TOTAL: true
 
-      - name: Commit README update
+      - name: ✅ Commit README update
         uses: stefanzweifel/git-auto-commit-action@v6.0.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           commit_message: Update generated README
           branch: main
