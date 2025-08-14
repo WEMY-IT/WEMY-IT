@@ -4,7 +4,7 @@
 
 #### 👷 The latest repos I've pushed to
 
-- [`Mysmalgame`](https://github.com/WEMY-IT/Mysmalgame) - _""_ **(9 months ago)**
+- [`Mysmalgame`](https://github.com/WEMY-IT/Mysmalgame) - _""_ **(10 months ago)**
 
 #### ⌨️ My latest projects
 
@@ -14,15 +14,7 @@
 #### 📊 WakaTime Stats
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 06 August 2025 - To: 13 August 2025
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
+_Stats updating..._
 <!--END_SECTION:waka-->
 
 ---
