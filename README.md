@@ -14,7 +14,15 @@
 #### 📊 WakaTime Stats
 
 <!--START_SECTION:waka-->
-_Stats updating..._
+
+```txt
+From: 26 August 2025 - To: 02 September 2025
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ---
