@@ -64,12 +64,10 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <a href="https://open.spotify.com/user/pxkmtrf8tb0of0megsrtk6i67">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pxkmtrf8tb0of0megsrtk6i67&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Schokolade/Schokolade/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Schokolade/Schokolade/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Schokolade/Schokolade/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
