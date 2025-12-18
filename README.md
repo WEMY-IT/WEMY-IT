@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>👾  GITHUB PROFIL: @WEMY-IT<br>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>🚀  Full Stack Developer</h3>
+<h3 align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>👾  GITHUB PROFIL: @WEMY-IT<br>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>🚀  Full Stack Developer</h3>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<h3 align="center">📍  Hamburg, Germany<br><br>📊  42 Repos  |  👥 120 Follower<br><br>👉  github.com/WEMY-IT<br>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</h3>
+<h3 align="center">📍  Hamburg, Germany<br><br>📊  42 Repos  |  👥 120 Follower<br><br>👉  github.com/WEMY-IT<br>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</h3>
 
 ###
 
@@ -54,7 +54,7 @@
 
 ###
 
-<h3 align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</h3>
+<h3 align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</h3>
 
 ###
 
